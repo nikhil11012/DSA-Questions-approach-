@@ -1,5 +1,19 @@
 // class solution{
 //     public int climbstairs(int n){
+//         int count =0;
+//         for(int i = 1;i<=n;i++){
+//             for(int j =0;j<n;j++){
+//                 if(i+j == n){
+//                     count++;
+//                 }
+//             }
+//         }
+//         return count;
+//     }
+// }
+
+// class solution{
+//     public int climbstairs(int n){
 //         if(n<=1){
 //             return 1;
 //         }
