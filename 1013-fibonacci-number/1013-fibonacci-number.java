@@ -10,8 +10,8 @@
 //done with memoization
 
 class Solution {
+    HashMap<Integer,Integer> hs = new HashMap<>();
     public int fib(int n) {
-        HashMap<Integer,Integer> hs = new HashMap<>();
         if(hs.containsKey(n)){
             return hs.get(n);
         }
