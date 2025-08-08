@@ -22,6 +22,7 @@ DSA Challenge
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0024-swap-nodes-in-pairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0795-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
@@ -31,4 +32,8 @@ DSA Challenge
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
