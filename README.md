@@ -23,4 +23,12 @@ DSA Challenge
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0795-k-th-symbol-in-grammar) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
