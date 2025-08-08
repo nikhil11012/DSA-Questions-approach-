@@ -14,6 +14,7 @@ DSA Challenge
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
@@ -53,9 +54,11 @@ DSA Challenge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
