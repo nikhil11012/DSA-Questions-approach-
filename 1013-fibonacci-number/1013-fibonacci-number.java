@@ -13,7 +13,7 @@ class Solution {
     public int fib(int n) {
         HashMap<Integer,Integer> hs = new HashMap<>();
         if(hs.containsKey(n)){
-            hs.get(n);
+            return hs.get(n);
         }
         if(n<=1){
             return n;
