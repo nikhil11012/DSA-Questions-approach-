@@ -15,6 +15,7 @@ DSA Challenge
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +25,7 @@ DSA Challenge
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0024-swap-nodes-in-pairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +50,12 @@ DSA Challenge
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0783-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
