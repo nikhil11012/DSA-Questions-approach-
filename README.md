@@ -48,6 +48,7 @@ DSA Challenge
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -63,4 +64,8 @@ DSA Challenge
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
