@@ -6,6 +6,7 @@ DSA Challenge
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -34,6 +35,7 @@ DSA Challenge
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
