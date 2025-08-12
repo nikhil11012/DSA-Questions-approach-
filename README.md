@@ -37,6 +37,7 @@ DSA Challenge
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0344-reverse-string) |
 ## Linked List
@@ -71,4 +72,12 @@ DSA Challenge
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
