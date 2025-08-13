@@ -62,6 +62,7 @@ DSA Challenge
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -72,6 +73,7 @@ DSA Challenge
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
