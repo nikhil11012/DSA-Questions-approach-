@@ -16,6 +16,7 @@ DSA Challenge
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
@@ -28,6 +29,7 @@ DSA Challenge
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/nikhil11012/DSA-Questions-approach-/tree/master/1013-fibonacci-number) |
 ## Two Pointers
